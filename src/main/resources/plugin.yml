@@ -2,3 +2,7 @@ name: NMSRandom
 version: '${project.version}'
 main: me.unlegitiment.nmsrandom.NMSRandom
 api-version: 1.19
+commands:
+  createnpc:
+    description: False
+    usage: /createnpc
